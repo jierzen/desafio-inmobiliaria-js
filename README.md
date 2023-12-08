@@ -11,7 +11,7 @@ Este proyecto, desarrollado por Jorge Espinoza, se enfoca en la gestión y visua
 - Conexión a scripts con arreglos de propiedades correspondientes.
 
 ### 2. Arreglos de Propiedades 🏢
-- Dos arreglos distintos para propiedades en venta y alquiler.
+- Dos arreglos distintos para propiedades en venta y alquiler cada una en sus archivos js.
 - Estructura de cada objeto de propiedad indicado
 
 ### 3. Ciclos y Plantillas 🔄
