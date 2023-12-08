@@ -73,10 +73,10 @@ function renderizarPropiedadesEnAlquiler() {
 
     if (document.getElementById('propiedadesAlquilerIndex')) {
         contenedor = document.getElementById('propiedadesAlquilerIndex');
-        limite = 3; // Solo mostrar 3 propiedades en el index
+        limite = 3;
     } else if (document.getElementById('propiedadesAlquiler')) {
         contenedor = document.getElementById('propiedadesAlquiler');
-        limite = propiedadesEnAlquiler.length; // Mostrar todas las propiedades en la página de venta
+        limite = propiedadesEnAlquiler.length;
     }
 
     for (let i = 0; i < limite; i++) {
