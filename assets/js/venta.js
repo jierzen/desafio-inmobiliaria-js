@@ -76,10 +76,10 @@ function renderizarPropiedadesEnVenta() {
 
     if (document.getElementById('propiedadesVentaIndex')) {
         contenedor = document.getElementById('propiedadesVentaIndex');
-        limite = 3; // Solo mostrar 3 propiedades en el index
+        limite = 3;
     } else if (document.getElementById('propiedadesVenta')) {
         contenedor = document.getElementById('propiedadesVenta');
-        limite = propiedadesEnVenta.length; // Mostrar todas las propiedades en la página de venta
+        limite = propiedadesEnVenta.length;
     }
 
     for (let i = 0; i < limite; i++) {
