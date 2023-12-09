@@ -11,8 +11,8 @@ Este proyecto, desarrollado por Jorge Espinoza, se enfoca en la gestión y visua
 - Conexión a scripts con arreglos de propiedades correspondientes.
 
 ### 2. Arreglos de Propiedades 🏢
-- Dos arreglos distintos para propiedades en venta y alquiler cada una en sus archivos js.
-- Estructura de cada objeto de propiedad indicado
+- Dos arreglos distintos para propiedades en venta y alquiler cada una en sus archivos js  `venta.js` y `alquiler.js`.
+- Estructura de cada objeto de propiedad indicado.
 
 ### 3. Ciclos y Plantillas 🔄
 - Uso de ciclos (for) para recorrer los arreglos de propiedades.
@@ -24,6 +24,6 @@ Este proyecto, desarrollado por Jorge Espinoza, se enfoca en la gestión y visua
 
 ### 5. Página Principal 🏡
 - Se muestran solo 3 propiedades en venta y 3 en alquiler en index.html.
-- Botones enlazados a páginas de propiedades para ver más detalles.
+- Botones enlazados a páginas de propiedades para ver más detalles donde se muestran todos los objetos existentes.
 
 ## Hecho con ❤️ por Jorge Espinoza.
